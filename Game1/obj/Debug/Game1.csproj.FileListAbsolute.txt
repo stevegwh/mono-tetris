@@ -12,8 +12,7 @@ C:\Users\Steve\source\repos\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.d
 C:\Users\Steve\source\repos\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.exe
 C:\Users\Steve\source\repos\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Game1.pdb
 C:\Users\Steve\source\repos\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
-C:\Users\Steve\source\repos\Game1\Game1\obj\Debug\Game1.csproj.CopyComplete
 C:\Users\Steve\source\repos\Game1\Game1\obj\Debug\Game1.exe
 C:\Users\Steve\source\repos\Game1\Game1\obj\Debug\Game1.pdb
 C:\Users\Steve\source\repos\Game1\Game1\bin\DesktopGL\AnyCPU\Debug\Content\block.xnb
-C:\Users\Steve\source\repos\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache

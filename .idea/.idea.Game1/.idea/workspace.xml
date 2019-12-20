@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e5fa739-06ad-49d8-b7d8-e255edc21534" name="Default Changelist" comment="" />
+    <list default="true" id="7e5fa739-06ad-49d8-b7d8-e255edc21534" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Game1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game1/obj/Debug/Game1.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/bin/DesktopGL/AnyCPU/Debug/Game1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Game1/bin/DesktopGL/AnyCPU/Debug/Game1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/bin/DesktopGL/AnyCPU/Debug/Game1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Game1/bin/DesktopGL/AnyCPU/Debug/Game1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/obj/Debug/Game1.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/Game1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/obj/Debug/Game1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Game1/obj/Debug/Game1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/obj/Debug/Game1.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/obj/Debug/Game1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Game1/obj/Debug/Game1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game1/obj/Debug/Game1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Game1/obj/Debug/Game1.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Game1/Block1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -19,13 +35,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1VFWcIhdUtY1qlwT0Kps8t0Aosb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -72,15 +93,50 @@
       <option name="presentableId" value="Default" />
       <updated>1576849400937</updated>
       <workItem from="1576849403385" duration="108000" />
+      <workItem from="1576849546811" duration="301000" />
+      <workItem from="1576850233492" duration="284000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
+    <state width="1815" height="274" key="GridCell.Tab.0.bottom" timestamp="1576849847580">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1576849847580" />
+    <state width="1815" height="274" key="GridCell.Tab.0.center" timestamp="1576849847580">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1576849847580" />
+    <state width="1815" height="274" key="GridCell.Tab.0.left" timestamp="1576849847580">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1576849847580" />
+    <state width="1815" height="274" key="GridCell.Tab.0.right" timestamp="1576849847580">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1576849847580" />
     <state x="430" y="183" key="SettingsEditor" timestamp="1576849510627">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
